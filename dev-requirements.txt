@@ -1,0 +1,4 @@
+flask
+wheel
+pytest
+setuptools
