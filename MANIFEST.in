@@ -1,0 +1,4 @@
+graft trident/static
+graft trident/templates
+global-exclude *.pyc
+recursive-include trident *
